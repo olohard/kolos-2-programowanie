@@ -1,0 +1,2 @@
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\zad2 kolos\zad2 kolos\x64\Debug\zad2 kolos.vcxproj.AssemblyReference.cache
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\zad2 kolos\zad2 kolos\x64\Debug\zad2 kolos.vcxproj.SuggestedBindingRedirects.cache
