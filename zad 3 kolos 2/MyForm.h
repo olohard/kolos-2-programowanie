@@ -183,7 +183,15 @@ namespace Form {
 
 		if (double::TryParse(textBox1->Text, r) && double::TryParse(textBox2->Text, h))
 		{
-			label4->Text = L"Objêtoœæ walca:" + (Math::PI * r * r * h);
+			if (r > 0 && h > 0)
+			{
+				label4->Text = L"Objêtoœæ walca:" + ((Math::PI * r * r) + (2 * Math::PI * r * h));
+
+			}
+			else {
+				label4->Text = L"Podano nie prawid³owe wartoœci";
+
+			}
 		}
 
 		else {
@@ -195,7 +203,15 @@ namespace Form {
 
 		if (double::TryParse(textBox1->Text, r) && double::TryParse(textBox2->Text, h))
 		{
-			label4->Text = L"Pole powierzchni walca:" + ((Math::PI * r * r) + (2 * Math::PI * r * h));
+			if (r > 0 && h > 0)
+			{
+				label4->Text = L"Pole powierzchni walca:" + ((Math::PI * r * r) + (2 * Math::PI * r * h));
+
+			}
+			else {
+				label4->Text = L"Podano nie prawid³owe wartoœci";
+
+			}
 		}
 
 		else {

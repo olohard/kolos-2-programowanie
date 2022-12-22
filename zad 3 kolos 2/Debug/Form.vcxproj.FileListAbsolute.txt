@@ -15,3 +15,8 @@ C:\Users\wcisl\OneDrive\Pulpit\zad 3 kolos 2\Debug\Form.vcxproj.SuggestedBinding
 C:\Users\wcisl\OneDrive\Pulpit\zad 3 kolos 2\Debug\Form.MyForm.resources
 C:\Users\wcisl\OneDrive\Pulpit\zad 3 kolos 2\Debug\Form.vcxproj.GenerateResource.cache
 C:\Users\wcisl\OneDrive\Pulpit\zad 3 kolos 2\Debug\Form.exe
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\Nowy folder\zad 3 kolos 2\Debug\Form.vcxproj.AssemblyReference.cache
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\Nowy folder\zad 3 kolos 2\Debug\Form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\Nowy folder\zad 3 kolos 2\Debug\Form.MyForm.resources
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\Nowy folder\zad 3 kolos 2\Debug\Form.vcxproj.GenerateResource.cache
+C:\Users\wcisl\OneDrive\Pulpit\labolatoria\sem3\Nowy folder\zad 3 kolos 2\Debug\Form.exe
